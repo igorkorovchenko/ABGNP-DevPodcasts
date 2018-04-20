@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_element_margin">10dp</dimen>
+    <dimen name="name_size">15sp</dimen>
+    <dimen name="square_image_size_width_height">30dp</dimen>
+    <dimen name="small_icon_width_height">15dp</dimen>
+</resources>

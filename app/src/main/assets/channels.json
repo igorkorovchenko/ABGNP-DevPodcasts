@@ -1,0 +1,47 @@
+{
+  "1":{
+    "id":1,
+    "name": "Android Dev / AppTractor",
+    "icon": "https://i1.sndcdn.com/avatars-000200066084-aey8hc-t500x500.jpg",
+    "lang": "RU",
+    "info": "Android Dev — подкаст о разработке под Android и всем, что с этим связано.",
+    "rating": 4.9,
+    "source": {
+      "itunes": "https://itunes.apple.com/ru/podcast/android-dev-podkast/id1076856310",
+      "googleplay": "",
+      "soundcloud": "https://soundcloud.com/leonid-bogolubov",
+      "podster": "https://apptractor-podcast.podster.fm",
+      "site": "https://apptractor.ru"
+    }
+  },
+  "2":{
+    "id":2,
+    "name": "Podlodka Podcast",
+    "icon": "https://i1.sndcdn.com/avatars-000331499231-lm24fw-t500x500.jpg",
+    "lang": "RU",
+    "info": "Podlodka - это еженедельное аудио-шоу про мобильную разработку и всем, что с ней связано.",
+    "rating": 4.5,
+    "source": {
+      "itunes": "https://itunes.apple.com/us/podcast/podlodka-podcast/id1209828744?mt=2",
+      "soundcloud": "https://soundcloud.com/podlodka",
+      "googleplay": "",
+      "podster": "",
+      "site": "https://t.me/podlodka"
+    }
+  },
+  "3":{
+    "id":3,
+    "name": "Радио-Т",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/73/2d/47/732d47af-f006-64f6-42bd-ff2183e37985/source/170x170bb.jpg",
+    "lang": "RU",
+    "info": "Разговоры на темы хайтек, высоких компьютерных технологий, гаджетов, облаков, программирования и прочего интересного из мира ИТ.",
+    "rating": 4.0,
+    "source": {
+      "itunes": "https://itunes.apple.com/podcast/радио-т/id256504435?mt=2",
+      "soundcloud": "",
+      "googleplay": "https://play.google.com/music/m/Ivrwbk7epyisvafnu45f3zp57oi?t=-",
+      "podster": "",
+      "site": "https://radio-t.com"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/channel_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_margin="@dimen/item_element_margin"
+        android:contentDescription="@string/default_icon_for_string_channels"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/channel_icon" />
+
+    <LinearLayout
+        android:id="@+id/channel_info_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/item_element_margin"
+        android:layout_marginEnd="@dimen/item_element_margin"
+        android:layout_marginTop="@dimen/item_element_margin"
+        android:layout_toEndOf="@+id/channel_icon"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/channel_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/default_channel_name"
+            android:textColor="@color/main_text_color"
+            android:textSize="@dimen/name_size" />
+
+        <TextView
+            android:id="@+id/channel_updated"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/default_channel_updated"
+            android:textColor="@color/details_text_color" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/channel_language"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="@dimen/item_element_margin"
+        android:layout_marginEnd="@dimen/item_element_margin"
+        android:layout_marginTop="@dimen/item_element_margin"
+        android:layout_toEndOf="@+id/channel_info_layout"
+        android:text="@string/default_channel_language"
+        android:textAlignment="textEnd"
+        android:textColor="@color/main_text_color" />
+
+</RelativeLayout>

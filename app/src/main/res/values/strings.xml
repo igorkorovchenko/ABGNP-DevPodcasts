@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Developer Podcasts</string>
+    <string name="channels_activity_name"> – Channels</string>
+    <string name="channel_detail_activity_name"> – Details</string>
+    <string name="default_icon_for_string_channels">Default icon for @string/channels</string>
+    <string name="default_channel_name">Channel name</string>
+    <string name="default_channel_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="default_channel_updated">Updated: Wed, 4 Jul 2001 12:08:56</string>
+    <string name="default_channel_language">EN</string>
+    <string name="default_track_name">Track name</string>
+    <string name="default_track_likes">14</string>
+    <string name="default_track_plays">1247</string>
+    <string name="default_track_duration">1:47:42</string>
+    <string name="default_track_created">01/28/2018</string>
+    <string name="button_site">Button for the connection with the site</string>
+    <string name="button_itunes">Button for the connection with the iTunes</string>
+    <string name="button_soundcloud">Button for the connection with the Soundcloud</string>
+    <string name="button_podster">Button for the connection with the Podster</string>
+    <string name="button_googleplay">Button for the connection with the Google Play</string>
+    <string name="toast_clipboard">Link has been copied</string>
+    <string name="track_duration_item">Icon for duration of the track</string>
+    <string name="track_likes_icon">Icon for likes indicator</string>
+    <string name="track_plays_item">Icon of plays indicztor</string>
+</resources>
